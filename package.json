@@ -1,0 +1,12 @@
+{
+  "name": "nuxt-component",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.12.2",
+    "nuxt-custom-elements": "^1.2.1"
+  }
+}
